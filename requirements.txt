@@ -31,3 +31,5 @@ langchain-openrouter
 sentence-transformers
 
 streamlit
+
+pydantic
