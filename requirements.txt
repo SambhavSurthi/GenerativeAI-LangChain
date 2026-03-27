@@ -29,3 +29,5 @@ scikit-learn
 langchain-openrouter
 
 sentence-transformers
+
+streamlit
