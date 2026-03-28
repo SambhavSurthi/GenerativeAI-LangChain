@@ -33,3 +33,5 @@ sentence-transformers
 streamlit
 
 pydantic
+
+grandalf
