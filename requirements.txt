@@ -41,3 +41,7 @@ langchain-community
 PyPDF
 
 bs4
+
+langchain-text-splitters
+
+langchain_experimental
