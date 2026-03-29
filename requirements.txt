@@ -35,3 +35,9 @@ streamlit
 pydantic
 
 grandalf
+
+langchain-community
+
+PyPDF
+
+bs4
