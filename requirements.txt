@@ -45,3 +45,15 @@ bs4
 langchain-text-splitters
 
 langchain_experimental
+
+ipykernel
+
+langchain_chroma
+
+chromadb
+
+wikipedia
+
+faiss-cpu
+
+weaviate-client
