@@ -57,3 +57,5 @@ wikipedia
 faiss-cpu
 
 weaviate-client
+
+langchain-classic
