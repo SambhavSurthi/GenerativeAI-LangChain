@@ -59,3 +59,19 @@ faiss-cpu
 weaviate-client
 
 langchain-classic
+
+unstructured
+
+pdfminer
+
+unstructured-inference
+
+youtube-transcript-api
+
+pymupdf
+
+duckduckgo-search
+
+pyowm
+
+ddgs
